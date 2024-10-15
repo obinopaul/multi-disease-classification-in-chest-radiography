@@ -8,7 +8,8 @@
 ## Project Overview  
 This project leverages **deep learning** to enhance the detection and classification of thoracic diseases through **YOLOv8** models, utilizing the **NIH Chest X-ray Dataset** containing 112,120 X-ray images. The aim is to automate medical diagnostics and improve **accuracy** in detecting 14 distinct diseases.   
 
-![Alt text](sample_images/00013774_055.png)
+<img src="sample_images/00013774_055.png" alt="Sample X-Ray Image" width="300" height="200"/>
+
 ---
 
 ## Key Features  
